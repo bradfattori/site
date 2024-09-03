@@ -790,7 +790,7 @@ a:focus {
 
 /* info section */
 .info_section {
-  background-color: $black; 
+  background-color: linear-gradient(110deg, transparent 25%, #000000 25%);
   color: $white;
 
   h4 {
